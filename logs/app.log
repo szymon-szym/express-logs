@@ -1,0 +1,4 @@
+{"message":"info statement","level":"info"}
+{"message":"::1 - - [30/Sep/2018:21:05:09 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3565.0 Safari/537.36\"\n","level":"info"}
+{"message":"info statement","level":"info"}
+{"message":"::1 - - [30/Sep/2018:21:05:10 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3565.0 Safari/537.36\"\n","level":"info"}
